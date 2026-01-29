@@ -1,0 +1,8 @@
+2026-01-28 16:59:20,899 - INFO - Allowed request from 192.168.1.5: login.php?user=gunta
+2026-01-28 16:59:20,900 - WARNING - Threat Detected! IP: 192.168.1.10 | Type: SQL_INJECTION | Payload: login.php?user=admin' OR 1=1 --
+2026-01-28 16:59:20,900 - WARNING - Threat Detected! IP: 192.168.1.12 | Type: XSS | Payload: search.php?q=<script>alert('Hacked')</script>
+2026-01-28 16:59:20,900 - WARNING - Threat Detected! IP: 192.168.1.20 | Type: PATH_TRAVERSAL | Payload: view_file.php?file=../../etc/passwd
+2026-01-28 17:14:42,807 - INFO - ALLOWED: Safe request from 192.168.1.10 | Payload: https://www.youtube.com/
+2026-01-28 17:14:47,413 - INFO - ALLOWED: Safe request from 192.168.1.10 | Payload: https://www.youtube.com/
+2026-01-28 17:14:50,012 - INFO - ALLOWED: Safe request from 192.168.1.10 | Payload: https://www.youtube.com/
+2026-01-28 17:23:19,786 - CRITICAL - CRITICAL [Honeypot Triggered]: IP 192.168.1.105 accessed trap URL inside '/admin-backup'

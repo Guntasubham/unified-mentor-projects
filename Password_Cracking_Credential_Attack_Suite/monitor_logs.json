@@ -1,0 +1,555 @@
+[
+    {
+        "timestamp": "2026-01-28 15:59:44",
+        "type": "Process Execution Detected",
+        "process": "system",
+        "parent": "system idle process",
+        "path": "",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:44",
+        "type": "Process Execution Detected",
+        "process": "",
+        "parent": "system",
+        "path": "",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:44",
+        "type": "Process Execution Detected",
+        "process": "registry",
+        "parent": "system",
+        "path": "registry",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:44",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:45",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:45",
+        "type": "Process Execution Detected",
+        "process": "crossdeviceservice.exe",
+        "parent": "svchost.exe",
+        "path": "c:\\program files\\windowsapps\\microsoftwindows.crossdevice_1.25112.60.0_x64__cw5n1h2txyewy\\crossdeviceservice.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:45",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "explorer.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:45",
+        "type": "Process Execution Detected",
+        "process": "memcompression",
+        "parent": "system",
+        "path": "memcompression",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:45",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:45",
+        "type": "Process Execution Detected",
+        "process": "vmware-usbarbitrator64.exe",
+        "parent": "services.exe",
+        "path": "c:\\program files (x86)\\common files\\vmware\\usb\\vmware-usbarbitrator64.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "mpdefendercoreservice.exe",
+        "parent": "services.exe",
+        "path": "c:\\programdata\\microsoft\\windows defender\\platform\\4.18.25110.6-0\\mpdefendercoreservice.exe",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "vmware-authd.exe",
+        "parent": "services.exe",
+        "path": "c:\\program files (x86)\\vmware\\vmware workstation\\vmware-authd.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "msmpeng.exe",
+        "parent": "services.exe",
+        "path": "c:\\programdata\\microsoft\\windows defender\\platform\\4.18.25110.6-0\\msmpeng.exe",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "officeclicktorun.exe",
+        "parent": "services.exe",
+        "path": "c:\\program files\\common files\\microsoft shared\\clicktorun\\officeclicktorun.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "phoneexperiencehost.exe",
+        "parent": "svchost.exe",
+        "path": "c:\\program files\\windowsapps\\microsoft.yourphone_1.25112.36.0_x64__8wekyb3d8bbwe\\phoneexperiencehost.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "pet.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python-env-tools\\bin\\pet.exe",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "cncmd.exe",
+        "parent": "radeonsoftware.exe",
+        "path": "c:\\program files\\windowsapps\\advancedmicrodevicesinc-2.amdradeonsoftware_10.22.20073.0_x64__0a9344xs7nr4m\\radeonsoftware\\cncmd.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "chrome.exe",
+        "parent": "chrome.exe",
+        "path": "c:\\program files\\google\\chrome\\application\\chrome.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "python.exe",
+        "parent": "powershell.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\python\\python314\\python.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "sdxhelper.exe",
+        "parent": "svchost.exe",
+        "path": "c:\\program files\\microsoft office\\root\\office16\\sdxhelper.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:46",
+        "type": "Process Execution Detected",
+        "process": "powertoys.exe",
+        "parent": "svchost.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "msedgewebview2.exe",
+        "parent": "searchhost.exe",
+        "path": "c:\\program files (x86)\\microsoft\\edgewebview\\application\\144.0.3719.93\\msedgewebview2.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.awake.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.awake.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.colorpickerui.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.colorpickerui.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.alwaysontop.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.alwaysontop.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.cropandlock.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.cropandlock.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.fancyzones.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.fancyzones.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.peek.ui.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\winui3apps\\powertoys.peek.ui.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.powerlauncher.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.powerlauncher.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "powertoys.powerocr.exe",
+        "parent": "powertoys.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\powertoys\\powertoys.powerocr.exe",
+        "trust": "Unknown",
+        "risk_score": 80,
+        "reasons": [
+            "Executed from user-writable directory",
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "nissrv.exe",
+        "parent": "services.exe",
+        "path": "c:\\programdata\\microsoft\\windows defender\\platform\\4.18.25110.6-0\\nissrv.exe",
+        "trust": "Unknown",
+        "risk_score": 50,
+        "reasons": [
+            "First time this executable was observed",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "code.exe",
+        "parent": "code.exe",
+        "path": "c:\\users\\subha\\appdata\\local\\programs\\microsoft vs code\\code.exe",
+        "trust": "Unknown",
+        "risk_score": 65,
+        "reasons": [
+            "Executed from user-writable directory",
+            "Executable running outside standard directories",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Process Execution Detected",
+        "process": "windowspackagemanagerserver.exe",
+        "parent": "svchost.exe",
+        "path": "c:\\program files\\windowsapps\\microsoft.desktopappinstaller_1.27.460.0_x64__8wekyb3d8bbwe\\windowspackagemanagerserver.exe",
+        "trust": "Unknown",
+        "risk_score": 35,
+        "reasons": [
+            "First time this executable was observed",
+            "Unknown or unmanaged process"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:47",
+        "type": "Startup Persistence Detected",
+        "entry": "Discord",
+        "command": "\"C:\\Users\\subha\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe",
+        "trust": "Unknown",
+        "risk_score": 60,
+        "reasons": [
+            "Startup entry from user-writable directory"
+        ]
+    },
+    {
+        "timestamp": "2026-01-28 15:59:54",
+        "type": "Scheduled Task Persistence Detected",
+        "details": "\"GUNTASUBHAM\",\"\\PowerToys\\Autorun for subha\",\"N/A\",\"Ready\",\"Interactive only\",\"30-11-1999 00:00:00\",\"267011\",\"GUNTASUBHAM\\subha\",\"C:\\Users\\subha\\AppData\\Local\\PowerToys\\PowerToys.exe \",\"N/A\",\"N/A\",\"Enabled\",\"Disabled\",\"\",\"subha\",\"Disabled\",\"Disabled\",\"Scheduling data is not available in this format.\",\"At logon time\",\"N/A\",\"N/A\",\"N/A\",\"N/A\",\"N/A\",\"N/A\",\"N/A\",\"N/A\",\"N/A\"",
+        "risk_score": 50,
+        "reasons": [
+            "Scheduled task executing from suspicious path"
+        ]
+    }
+]
