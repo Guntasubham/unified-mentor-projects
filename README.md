@@ -19,7 +19,7 @@ This repository contains my cybersecurity projects completed during the Unified 
 * **Tech Stack:** Python, Regex (re), Tkinter (Dashboard).
 * [cite_start]**Key Learning:** Web attack signatures (SQLi/XSS) and SOC monitoring operations[cite: 260].
 
-### 4. Sentinel Endpoint Monitor (HIDS)
+### 4. Windows Service Process Monitoring Agent (HIDS)
 * [cite_start]**Description:** A host-based intrusion detection system (HIDS) that monitors Windows endpoints in real-time[cite: 275]. [cite_start]It detects suspicious behavior such as persistence mechanisms in the Registry, process injection, and execution from volatile directories like %TEMP%[cite: 276, 297].
 * **Tech Stack:** Python, psutil, winreg, ctypes.
 * [cite_start]**Key Learning:** Windows API internals, behavioral analysis, and malware persistence techniques[cite: 345].
@@ -34,8 +34,9 @@ cd "Project-Name-Folder"
 
 # Run the application
 python main_gui.py
-
 Author
 Gunta Subham
+
 B.Tech in Computer Science
+
 Domain: Cybersecurity
