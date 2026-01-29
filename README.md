@@ -34,9 +34,8 @@ cd "Project-Name-Folder"
 
 # Run the application
 python main_gui.py
+
 Author
 Gunta Subham
-
 B.Tech in Computer Science
-
 Domain: Cybersecurity
